@@ -1,0 +1,13 @@
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\bin\Debug\netcoreapp3.1\SecondConsoleApp.exe
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\bin\Debug\netcoreapp3.1\SecondConsoleApp.deps.json
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\bin\Debug\netcoreapp3.1\SecondConsoleApp.runtimeconfig.json
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\bin\Debug\netcoreapp3.1\SecondConsoleApp.runtimeconfig.dev.json
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\bin\Debug\netcoreapp3.1\SecondConsoleApp.dll
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\bin\Debug\netcoreapp3.1\SecondConsoleApp.pdb
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\obj\Debug\netcoreapp3.1\SecondConsoleApp.csprojAssemblyReference.cache
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\obj\Debug\netcoreapp3.1\SecondConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\obj\Debug\netcoreapp3.1\SecondConsoleApp.AssemblyInfo.cs
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\obj\Debug\netcoreapp3.1\SecondConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\obj\Debug\netcoreapp3.1\SecondConsoleApp.dll
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\obj\Debug\netcoreapp3.1\SecondConsoleApp.pdb
+C:\Users\Aziz\source\repos\SecondConsoleApp\SecondConsoleApp\obj\Debug\netcoreapp3.1\SecondConsoleApp.genruntimeconfig.cache
